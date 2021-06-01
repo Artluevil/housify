@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/housify/static/css/main.a2f727ad.chunk.css",
+    "main.js": "/housify/static/js/main.cf97cf8f.chunk.js",
+    "main.js.map": "/housify/static/js/main.cf97cf8f.chunk.js.map",
+    "runtime-main.js": "/housify/static/js/runtime-main.4c14e450.js",
+    "runtime-main.js.map": "/housify/static/js/runtime-main.4c14e450.js.map",
+    "static/js/2.be5e6e09.chunk.js": "/housify/static/js/2.be5e6e09.chunk.js",
+    "static/js/2.be5e6e09.chunk.js.map": "/housify/static/js/2.be5e6e09.chunk.js.map",
+    "index.html": "/housify/index.html",
+    "static/css/main.a2f727ad.chunk.css.map": "/housify/static/css/main.a2f727ad.chunk.css.map",
+    "static/js/2.be5e6e09.chunk.js.LICENSE.txt": "/housify/static/js/2.be5e6e09.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/housify/static/media/image-background.65405564.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c14e450.js",
+    "static/js/2.be5e6e09.chunk.js",
+    "static/css/main.a2f727ad.chunk.css",
+    "static/js/main.cf97cf8f.chunk.js"
+  ]
+}
