@@ -1,0 +1,23 @@
+
+{
+    "Cards": [
+        {
+            "id": 1,
+            "title": "Sell",
+            "dsc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+            "img": "./images/house1.png"
+        },
+        {
+            "id": 2,
+            "title": "Buy",
+            "dsc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+            "img": "./images/house2.png"
+        },
+        {
+            "id": 3,
+            "title": "Rent",
+            "dsc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+            "img": "./images/house3.png"
+        }
+    ]
+}
